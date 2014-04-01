@@ -5,6 +5,8 @@ Responsive Single Page Portfolio Website.
 
 Design By : html5up.net
 
+LIVE : www.vickeeyz.com
+
 Instructions
 ============
 
